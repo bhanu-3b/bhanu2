@@ -1,1 +1,2 @@
 print("mani")
+print("mine")
